@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/F0xedb/Pictures">
+  <a href="https://github.com/ODEX-TOS/Pictures">
     <img src="https://tos.pbfp.xyz/images/logo.svg" alt="Logo" width="150" height="200">
   </a>
 
@@ -19,14 +19,14 @@
   <p align="center">
     A small repository containing pictures used by tos
     <br />
-    <a href="https://github.com/F0xedb/Pictures"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ODEX-TOS/Pictures"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/F0xedb/Pictures">View Demo</a>
+    <a href="https://github.com/ODEX-TOS/Pictures">View Demo</a>
     ·
-    <a href="https://github.com/F0xedb/Pictures/issues">Report Bug</a>
+    <a href="https://github.com/ODEX-TOS/Pictures/issues">Report Bug</a>
     ·
-    <a href="https://github.com/F0xedb/Pictures/issues">Request Feature</a>
+    <a href="https://github.com/ODEX-TOS/Pictures/issues">Request Feature</a>
   </p>
 </p>
 
@@ -66,7 +66,7 @@ Really all you need is an image viewer or manipulator. Whatever fancies your boa
  
 1. Clone the Pictures
 ```sh
-git clone https:://github.com/F0xedb/Pictures.git
+git clone https://github.com/ODEX-TOS/Pictures.git
 ```
 2. Do what you want
 
@@ -103,16 +103,16 @@ Distributed under the GPL License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Tom Meyers - tom@pbfp.team
+Tom Meyers - tom@odex.be
 
-Project Link: [https://github.com/F0xedb/Pictures](https://github.com/F0xedb/Pictures)
+Project Link: [https://github.com/ODEX-TOS/Pictures](https://github.com/ODEX-TOS/Pictures)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [F0xedb](https://github.com/F0xedb/Pictures)
+* [F0xedb](https://github.com/ODEX-TOS/Pictures)
 
 
 
@@ -120,14 +120,14 @@ Project Link: [https://github.com/F0xedb/Pictures](https://github.com/F0xedb/Pic
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/F0xedb/Pictures.svg?style=flat-square
-[contributors-url]: https://github.com/F0xedb/Pictures/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/F0xedb/Pictures.svg?style=flat-square
-[forks-url]: https://github.com/F0xedb/Pictures/network/members
-[stars-shield]: https://img.shields.io/github/stars/F0xedb/Pictures.svg?style=flat-square
-[stars-url]: https://github.com/F0xedb/Pictures/stargazers
-[issues-shield]: https://img.shields.io/github/issues/F0xedb/Pictures.svg?style=flat-square
-[issues-url]: https://github.com/F0xedb/Pictures/issues
-[license-shield]: https://img.shields.io/github/license/F0xedb/Pictures.svg?style=flat-square
-[license-url]: https://github.com/F0xedb/Pictures/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ODEX-TOS/Pictures.svg?style=flat-square
+[contributors-url]: https://github.com/F0xedb/ODEX-TOS/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ODEX-TOS/Pictures.svg?style=flat-square
+[forks-url]: https://github.com/ODEX-TOS/Pictures/network/members
+[stars-shield]: https://img.shields.io/github/stars/ODEX-TOS/Pictures.svg?style=flat-square
+[stars-url]: https://github.com/ODEX-TOS/Pictures/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ODEX-TOS/Pictures.svg?style=flat-square
+[issues-url]: https://github.com/ODEX-TOS/Pictures/issues
+[license-shield]: https://img.shields.io/github/license/ODEX-TOS/Pictures.svg?style=flat-square
+[license-url]: https://github.com/ODEX-TOS/Pictures/blob/master/LICENSE.txt
 [product-screenshot]: https://tos.pbfp.xyz/images/logo.svg
